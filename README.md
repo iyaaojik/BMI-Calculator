@@ -1,2 +1,1 @@
-Tugas # BMI-Calculator
-BMI Calculator adalah metrik standar yang digunakan untuk menentukan siapa saja yang masuk dalam golongan berat badan sehat dan tidak sehat. Menghitung berat badan ideal membantu anda menjaga kesehatan
+Tugas # BMI-Calculator / Body Mass Index adalah perkiraan lemak tubuh yang didasarkan pada tinggi dan berat badan. Dengan melakukan perhitungan BMI, Anda dapat memperkirakan apakah berat badan yang dimiliki sudah tergolong normal, kurus (underweight), atau obesitas (overweight).
