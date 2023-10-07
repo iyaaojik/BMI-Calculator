@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <p>Check Your Body Mass Index</p>
+        <img src="images/BMI.jpg" alt="foto" width="100%" height="80% ">
+        <p>Please Input your Weight and Height Here.</p>
+        <label for="weight">Weight (KG) :</label>
+        <input type="number" id="weight" min="1" required>
+        <br>
+        <label for="height">Height (CM) :</label>
+        <input type="number" id="height" min="1" required>
+        <br>
+
+        <div class="box-button">
+            <button class="btn-reset button" onclick="resetValues()">RESET</button>
+            <button class="btn-calculate" onclick="calculate()">CALCULATE</button>
+
+        </div>
+        <div id="result"></div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
